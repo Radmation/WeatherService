@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WeatherService", "WeatherService\WeatherService.ccproj", "{1A53E0BE-C090-4D6F-8F90-C5DC72EB6C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{681AE7C7-6FAD-4740-A8F0-2C682954051C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A53E0BE-C090-4D6F-8F90-C5DC72EB6C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53E0BE-C090-4D6F-8F90-C5DC72EB6C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A53E0BE-C090-4D6F-8F90-C5DC72EB6C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A53E0BE-C090-4D6F-8F90-C5DC72EB6C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681AE7C7-6FAD-4740-A8F0-2C682954051C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681AE7C7-6FAD-4740-A8F0-2C682954051C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681AE7C7-6FAD-4740-A8F0-2C682954051C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681AE7C7-6FAD-4740-A8F0-2C682954051C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
